@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-RelativeCardView.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-RelativeCardView.iml" group="RelativeCardView" />
       <module fileurl="file://$PROJECT_DIR$/RelativeCardView.iml" filepath="$PROJECT_DIR$/RelativeCardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/RelativeCardView-app.iml" filepath="$PROJECT_DIR$/app/RelativeCardView-app.iml" group="RelativeCardView/app" />
+      <module fileurl="file://$PROJECT_DIR$/relativecard/RelativeCardView-relativecard.iml" filepath="$PROJECT_DIR$/relativecard/RelativeCardView-relativecard.iml" group="RelativeCardView/relativecard" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/relativecard/relativecard.iml" filepath="$PROJECT_DIR$/relativecard/relativecard.iml" />
     </modules>

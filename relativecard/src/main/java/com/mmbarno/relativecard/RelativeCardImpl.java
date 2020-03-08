@@ -2,7 +2,7 @@ package com.mmbarno.relativecard;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 /**
  * Created by mmbarno on 10/25/17.
