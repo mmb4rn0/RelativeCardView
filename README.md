@@ -75,7 +75,7 @@ or via Maven-
     </com.mmbarno.relativecard.RelativeCardView>
    ```
    
-   #License
+ # License
    
    MIT License
 
