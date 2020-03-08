@@ -1,5 +1,7 @@
 # RelativeCardView
-Normal CardView holds the property of FrameLayout but this one will provide the property of the RelativeLayout.
+Default CardView extends FrameLayout. So, when a complex view come, we need LinearLayout, RelativeLayout or ConstraintLayout inside of CardView to design that. Which tends to a extra view hierarchy layer.
+
+So, we need a CardView, which will extends RelativeLayout or ConstraintLayout. ConstraintLayout is heavy for Adapter oriented ViewGroups (Ex: RecylerView, ViewPager etc.). Thats why it extends RelativeLayout. Its very handy and cheap, specially for Adapter oriented ViewGroups.
 
 [![](https://jitpack.io/v/mmb4rn0/RelativeCardView.svg)](https://jitpack.io/#mmb4rn0/RelativeCardView)
 
